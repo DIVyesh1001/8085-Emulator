@@ -14,8 +14,5 @@ Usage:
 3. Optionally enable the debugger to step through the code.
 4. View and analyze the execution of the 8085 program.
 
-Author:
-[Yash Chauhan](https://www.linkedin.com/in/yash-chauhan-a8969a21b/)
-
 Note:
 This emulator is designed for educational purposes and provides a hands-on experience with the 8085 microprocessor architecture.
